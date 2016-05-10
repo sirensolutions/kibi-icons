@@ -1,0 +1,54 @@
+{
+  "checksum": {
+    "previous": "d9197fc0e304109c6d609065d21d2fa3fdb103ca128177387ee58de4e9869e1e",
+    "current": "d9197fc0e304109c6d609065d21d2fa3fdb103ca128177387ee58de4e9869e1e"
+  },
+  "fonts": [
+    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.ttf",
+    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.svg",
+    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.woff",
+    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.eot"
+  ],
+  "glyphs": {
+    "graph": {
+      "codepoint": 61696,
+      "source": "vectors/graph.svg"
+    },
+    "timeline": {
+      "codepoint": 61697,
+      "source": "vectors/timeline.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".fak-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "FontAwesomeKibi",
+    "force": true,
+    "input": {
+      "templates": "vectors",
+      "vectors": "vectors"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "lib/stylesheets",
+      "fonts": "lib/fonts",
+      "preview": "preview"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "lib/stylesheets/FontAwesomeKibi.css",
+    "preview/FontAwesomeKibi-preview.html"
+  ]
+}

@@ -1,0 +1,43 @@
+/*
+  Icon Font: FontAwesomeKibi
+*/
+
+@font-face {
+  font-family: "FontAwesomeKibi";
+  src: url("../fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.eot");
+  src: url("../fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.woff") format("woff"),
+       url("../fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.ttf") format("truetype"),
+       url("../fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.svg#FontAwesomeKibi") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "FontAwesomeKibi";
+    src: url("../fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.svg#FontAwesomeKibi") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.fak-graph:before,
+.fak-timeline:before {
+  display: inline-block;
+  font-family: "FontAwesomeKibi";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.fak-graph:before { content: "\f100"; }
+.fak-timeline:before { content: "\f101"; }
