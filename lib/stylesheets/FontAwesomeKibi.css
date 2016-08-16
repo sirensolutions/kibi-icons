@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "FontAwesomeKibi";
-  src: url("../fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.eot");
-  src: url("../fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.woff") format("woff"),
-       url("../fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.ttf") format("truetype"),
-       url("../fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.svg#FontAwesomeKibi") format("svg");
+  src: url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.eot");
+  src: url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.woff") format("woff"),
+       url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.ttf") format("truetype"),
+       url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.svg#FontAwesomeKibi") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "FontAwesomeKibi";
-    src: url("../fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.svg#FontAwesomeKibi") format("svg");
+    src: url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.svg#FontAwesomeKibi") format("svg");
   }
 }
 
