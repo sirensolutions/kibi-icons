@@ -1,18 +1,22 @@
 {
   "checksum": {
-    "previous": "d9197fc0e304109c6d609065d21d2fa3fdb103ca128177387ee58de4e9869e1e",
-    "current": "d9197fc0e304109c6d609065d21d2fa3fdb103ca128177387ee58de4e9869e1e"
+    "previous": "05f3c5936f8737c235ec9a948984b732114acd2469019e05652a71c38bde3df4",
+    "current": "05f3c5936f8737c235ec9a948984b732114acd2469019e05652a71c38bde3df4"
   },
   "fonts": [
-    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.ttf",
-    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.svg",
-    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.woff",
-    "lib/fonts/FontAwesomeKibi_d9197fc0e304109c6d609065d21d2fa3.eot"
+    "lib/fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.ttf",
+    "lib/fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.svg",
+    "lib/fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.woff",
+    "lib/fonts/FontAwesomeKibi_05f3c5936f8737c235ec9a948984b732.eot"
   ],
   "glyphs": {
     "graph": {
       "codepoint": 61696,
       "source": "vectors/graph.svg"
+    },
+    "taxonomy": {
+      "codepoint": 61698,
+      "source": "vectors/taxonomy.svg"
     },
     "timeline": {
       "codepoint": 61697,
@@ -29,7 +33,7 @@
     "font_design_size": 16,
     "font_em": 512,
     "font_name": "FontAwesomeKibi",
-    "force": true,
+    "force": false,
     "input": {
       "templates": "vectors",
       "vectors": "vectors"
@@ -42,6 +46,7 @@
     },
     "preprocessor_path": null,
     "quiet": false,
+    "skip_first": false,
     "templates": [
       "css",
       "preview"
