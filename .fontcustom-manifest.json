@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "48eb3322b8002550098d0886b8e2df14c07f8944087ead257e0fcb9c40ca40c2",
-    "current": "48eb3322b8002550098d0886b8e2df14c07f8944087ead257e0fcb9c40ca40c2"
+    "previous": "56024026e9e0b886ec2cc17c6d204c41f052cc90fffb6d2cc9acbfa894c5d6d3",
+    "current": "56024026e9e0b886ec2cc17c6d204c41f052cc90fffb6d2cc9acbfa894c5d6d3"
   },
   "fonts": [
-    "lib/fonts/FontAwesomeKibi_48eb3322b8002550098d0886b8e2df14.ttf",
-    "lib/fonts/FontAwesomeKibi_48eb3322b8002550098d0886b8e2df14.svg",
-    "lib/fonts/FontAwesomeKibi_48eb3322b8002550098d0886b8e2df14.woff",
-    "lib/fonts/FontAwesomeKibi_48eb3322b8002550098d0886b8e2df14.eot",
-    "lib/fonts/FontAwesomeKibi_48eb3322b8002550098d0886b8e2df14.woff2"
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.ttf",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.svg",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.woff",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.eot",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.woff2"
   ],
   "glyphs": {
     "graph": {
