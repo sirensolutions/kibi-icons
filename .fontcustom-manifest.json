@@ -1,18 +1,23 @@
 {
   "checksum": {
-    "previous": "88a91c4c2f406b9a8925e663ed5f9ab7221fa9b5fcfbcc136c98c37eef2f4187",
-    "current": "88a91c4c2f406b9a8925e663ed5f9ab7221fa9b5fcfbcc136c98c37eef2f4187"
+    "previous": "56024026e9e0b886ec2cc17c6d204c41f052cc90fffb6d2cc9acbfa894c5d6d3",
+    "current": "56024026e9e0b886ec2cc17c6d204c41f052cc90fffb6d2cc9acbfa894c5d6d3"
   },
   "fonts": [
-    "lib/fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.ttf",
-    "lib/fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.svg",
-    "lib/fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.woff",
-    "lib/fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.eot"
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.ttf",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.svg",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.woff",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.eot",
+    "lib/fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.woff2"
   ],
   "glyphs": {
     "graph": {
       "codepoint": 61696,
       "source": "vectors/graph.svg"
+    },
+    "intersection": {
+      "codepoint": 61699,
+      "source": "vectors/intersection.svg"
     },
     "taxonomy": {
       "codepoint": 61698,
@@ -21,11 +26,17 @@
     "timeline": {
       "codepoint": 61697,
       "source": "vectors/timeline.svg"
+    },
+    "union": {
+      "codepoint": 61700,
+      "source": "vectors/union.svg"
     }
   },
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".fak-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

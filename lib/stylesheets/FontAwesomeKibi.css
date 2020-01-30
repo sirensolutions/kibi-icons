@@ -4,11 +4,12 @@
 
 @font-face {
   font-family: "FontAwesomeKibi";
-  src: url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.eot");
-  src: url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.woff") format("woff"),
-       url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.ttf") format("truetype"),
-       url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.svg#FontAwesomeKibi") format("svg");
+  src: url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.eot");
+  src: url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.woff2") format("woff2"),
+       url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.woff") format("woff"),
+       url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.ttf") format("truetype"),
+       url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.svg#FontAwesomeKibi") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "FontAwesomeKibi";
-    src: url("../fonts/FontAwesomeKibi_88a91c4c2f406b9a8925e663ed5f9ab7.svg#FontAwesomeKibi") format("svg");
+    src: url("../fonts/FontAwesomeKibi_56024026e9e0b886ec2cc17c6d204c41.svg#FontAwesomeKibi") format("svg");
   }
 }
 
@@ -24,8 +25,10 @@
 
 [data-icon]:before,
 .fak-graph:before,
+.fak-intersection:before,
 .fak-taxonomy:before,
-.fak-timeline:before {
+.fak-timeline:before,
+.fak-union:before {
   display: inline-block;
   font-family: "FontAwesomeKibi";
   font-style: normal;
@@ -41,5 +44,7 @@
 }
 
 .fak-graph:before { content: "\f100"; }
+.fak-intersection:before { content: "\f103"; }
 .fak-taxonomy:before { content: "\f102"; }
 .fak-timeline:before { content: "\f101"; }
+.fak-union:before { content: "\f104"; }
